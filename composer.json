@@ -1,0 +1,21 @@
+{
+    "name": "sipsystemgm/reader",
+    "description": "This is a simple data reader",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sip\\Reader\\": "src/",
+            "Sip\\Reader\\Test\\": "test/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anisimov Kostya",
+            "email": "kostiaGm@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
