@@ -1,3 +1,7 @@
+1.2.2
+
+* feature [composer.json] it was added php version
+
 1.2.1
 
 * feature [README] new file

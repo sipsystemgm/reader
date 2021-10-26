@@ -1,6 +1,9 @@
 {
     "name": "sipsystemgm/reader",
     "description": "This is a simple data reader",
+    "require": {
+        "php": ">=7.2.5"
+    },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     },
